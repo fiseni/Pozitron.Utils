@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PozitronDev.Utils", "src\PozitronDev.Utils\PozitronDev.Utils.csproj", "{6B4DC124-7685-4B70-911F-407EA794D678}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F246F850-A8C2-4C52-A145-541D47887788}"
+	ProjectSection(SolutionItems) = preProject
+		azure-build.yaml = azure-build.yaml
+		LICENSE.txt = LICENSE.txt
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B4DC124-7685-4B70-911F-407EA794D678}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B4DC124-7685-4B70-911F-407EA794D678}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B4DC124-7685-4B70-911F-407EA794D678}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B4DC124-7685-4B70-911F-407EA794D678}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65DF3E7D-2292-4917-95CC-8E6659A9AD28}
+	EndGlobalSection
+EndGlobal
