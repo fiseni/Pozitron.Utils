@@ -11,7 +11,7 @@
     <Summary>Utils library containing set of different extensions and helper classes.</Summary>
     <Copyright>Copyright © 2019 Pozitron Group LLC</Copyright>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageReleaseNotes>Validations and convert functionalities removed and published within separate packages.</PackageReleaseNotes>
+    <PackageReleaseNotes>Validations and convert functionalities removed and published to separate packages.</PackageReleaseNotes>
     <PackageProjectUrl>https://github.com/fiseni/PozitronDev.Utils</PackageProjectUrl>
     <PackageIconUrl>https://pozitrongroup.com/PozitronLogo.png</PackageIconUrl>
     <PackageIcon>pozitronicon.png</PackageIcon>
