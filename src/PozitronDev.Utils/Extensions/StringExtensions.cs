@@ -38,7 +38,7 @@ namespace PozitronDev.Utils.Extensions
         /// <returns>True if all letters are alphanumeric. In case the string value is null, empty or white spaces only, it returns False</returns>
         public static bool IsAlphanumeric(this string inputString)
         {
-            if (string.IsNullOrWhiteSpace(inputString)) return false;
+            if (string.IsNullOrEmpty(inputString)) return false;
             return inputString.All(x => char.IsLetterOrDigit(x));
         }
 
